@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color: rgb(247, 204, 153);
+}
+
+body {
+  background-color: rgb(165, 72, 72);
+}
+
+a {
+  color: rgb(247, 204, 153);
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+img {
+  max-width: 500px;
+
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+}
+main {
+  text-align: center;
+  margin: 30px;
+}
+footer {
+  text-align: center;
+}
